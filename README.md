@@ -1,3 +1,5 @@
+⚠️[WIP] NOT READY FOR USAGE YET.
+
 # react-brickwork
 
 > Grid layout for any react node
@@ -28,4 +30,4 @@ class Example extends React.Component {
 
 ## License
 
-MIT © [barryandjamie](https://github.com/barryandjamie)
+MIT © [TheBilTheory](https://github.com/thebiltheory)
